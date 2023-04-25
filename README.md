@@ -8,3 +8,18 @@ A color theme based around burnt wood.
   🪵  Dark theme with muted colors: Dark Red, Brown, Gray, Black, White<br>
   🪣  Minimal/Monochrome theme with no colors: Gray, Black, White<br>
 </p>
+
+<table>
+  <tr>
+    <th></th>
+    <th>The Fire</th>
+    <th>The Embers</th>
+    <th>The Ashes</th>
+  </tr>
+  <tr>
+    <th>Color 1</th>
+    <th>#Placeholder</th>
+    <th>#Placeholder</th>
+    <th>#Placeholder</th>
+  </tr>
+</table>
