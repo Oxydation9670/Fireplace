@@ -12,14 +12,14 @@ A color theme based around burnt wood.
 <table>
   <tr>
     <th></th>
-    <th>The Fire</th>
-    <th>The Embers</th>
-    <th>The Ashes</th>
+    <th>🔥 The Fire</th>
+    <th>🪵 The Embers</th>
+    <th>🪣 The Ashes</th>
   </tr>
   <tr>
     <th>Color 1</th>
-    <th>#Placeholder</th>
-    <th>#Placeholder</th>
-    <th>#Placeholder</th>
+    <th>#feb855</th>
+    <th>#e33d0a</th>
+    <th>#babec4</th>
   </tr>
 </table>
