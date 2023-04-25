@@ -18,8 +18,8 @@ A color theme based around burnt wood.
   </tr>
   <tr>
     <th>Color 1</th>
-    <th>#feb855</th>
-    <th>#e33d0a</th>
-    <th>#babec4</th>
+    <th>#Placeholder</th>
+    <th>#Placeholder</th>
+    <th>#Placeholder</th>
   </tr>
 </table>
